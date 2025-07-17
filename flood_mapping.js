@@ -2,7 +2,7 @@
 Map.centerObject(geometry3, 10);
 // Map.addLayer(geometry, {color: 'grey'}, 'Drawn AOI');
 
-// ======================== DEFINE DATES ================================
+// ======================== DEFINE DATES ================================--
 var beforeStart = '2017-07-15';
 var beforeEnd   = '2019-08-10';
 var afterStart  = '2019-08-10';
